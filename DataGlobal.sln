@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{681FFD96-59B7-41FA-8B2A-C55AB732BE33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{8B93A27E-7759-4F07-B0EC-A5E6BA2C45C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{73B6EF2D-05A1-4910-9C8E-05D66B4384B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681FFD96-59B7-41FA-8B2A-C55AB732BE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681FFD96-59B7-41FA-8B2A-C55AB732BE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681FFD96-59B7-41FA-8B2A-C55AB732BE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681FFD96-59B7-41FA-8B2A-C55AB732BE33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B93A27E-7759-4F07-B0EC-A5E6BA2C45C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B93A27E-7759-4F07-B0EC-A5E6BA2C45C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B93A27E-7759-4F07-B0EC-A5E6BA2C45C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B93A27E-7759-4F07-B0EC-A5E6BA2C45C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73B6EF2D-05A1-4910-9C8E-05D66B4384B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B6EF2D-05A1-4910-9C8E-05D66B4384B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B6EF2D-05A1-4910-9C8E-05D66B4384B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B6EF2D-05A1-4910-9C8E-05D66B4384B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

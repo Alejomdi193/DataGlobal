@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alejandromunoz/Desktop/DataGlobal/Api/Api.csproj": {}
+  },
+  "projects": {
+    "/Users/alejandromunoz/Desktop/DataGlobal/Api/Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alejandromunoz/Desktop/DataGlobal/Api/Api.csproj",
+        "projectName": "Api",
+        "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Api/Api.csproj",
+        "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
+        "outputPath": "/Users/alejandromunoz/Desktop/DataGlobal/Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alejandromunoz/Desktop/DataGlobal/Aplicacion/Aplicacion.csproj": {
+                "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Aplicacion/Aplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alejandromunoz/Desktop/DataGlobal/Aplicacion/Aplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alejandromunoz/Desktop/DataGlobal/Aplicacion/Aplicacion.csproj",
+        "projectName": "Aplicacion",
+        "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Aplicacion/Aplicacion.csproj",
+        "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
+        "outputPath": "/Users/alejandromunoz/Desktop/DataGlobal/Aplicacion/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj"
+              },
+              "/Users/alejandromunoz/Desktop/DataGlobal/Persistencia/Persistencia.csproj": {
+                "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Persistencia/Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj",
+        "projectName": "Dominio",
+        "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj",
+        "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
+        "outputPath": "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alejandromunoz/Desktop/DataGlobal/Persistencia/Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alejandromunoz/Desktop/DataGlobal/Persistencia/Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Persistencia/Persistencia.csproj",
+        "packagesPath": "/Users/alejandromunoz/.nuget/packages/",
+        "outputPath": "/Users/alejandromunoz/Desktop/DataGlobal/Persistencia/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alejandromunoz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj": {
+                "projectPath": "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

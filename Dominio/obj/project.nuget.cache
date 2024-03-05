@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "jtYJ/kaC7q1ovqQQf9UGOH68WoamCKTGYEqheMA8LoBGhn5SjlmpTNx8+weoV15ssGNVBRQWGwb8DhuZyKs7Ww==",
+  "success": true,
+  "projectFilePath": "/Users/alejandromunoz/Desktop/DataGlobal/Dominio/Dominio.csproj",
+  "expectedPackageFiles": [
+    "/Users/alejandromunoz/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.entityframeworkcore/7.0.16/microsoft.entityframeworkcore.7.0.16.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.16/microsoft.entityframeworkcore.abstractions.7.0.16.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.16/microsoft.entityframeworkcore.analyzers.7.0.16.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/alejandromunoz/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
