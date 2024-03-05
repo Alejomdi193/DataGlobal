@@ -88,4 +88,5 @@ Este proyecto consiste en una API RESTful para gestionar películas utilizando e
 5. La API estará disponible en `http://localhost:5108`.
 
 
+
 ![Swagger con el CRUD en vista](./image.png)
